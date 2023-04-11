@@ -1,4 +1,4 @@
-#visualization of particle motion for viscek flocking 
+#visualization of particle motion for viscek flocking. rectangular box with reflecting or periodic boundaries
 
 import numpy as np
 import matplotlib.pyplot as plt
